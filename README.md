@@ -20,3 +20,5 @@ When performing sentiment analysis, it’s important to consider the context, sa
 Numerous tools and libraries are available for sentiment analysis, including NLTK, TextBlob, VADER, and various machine learning frameworks like scikit-learn and TensorFlow. Depending on your specific needs and the characteristics of your data, you can choose an approach or combination of approaches that best suits your application.
 
 Here we will be using Rasa NLU for Sentiment Analysis. This can also be used for Classification under pre-defined labels.
+
+Refer: https://threadwaiting.com/sentiment-analysis-using-rasa-nlu/
