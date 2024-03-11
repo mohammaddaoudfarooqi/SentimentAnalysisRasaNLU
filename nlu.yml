@@ -1,0 +1,108 @@
+version: "3.1"
+
+nlu:
+- intent: negative
+  examples: |
+    - I'm furious with the constant glitches in your software; it's unacceptable!
+    - Your website is a nightmare to navigate, and I'm seething with frustration.
+    - I can't believe the incompetence of your support team – it's infuriating!
+    - This is the worst customer experience ever; I'm beyond angry!
+    - Your product is a disaster, and I'm fed up with the constant issues.
+    - I'm outraged by the lack of transparency in your business practices.
+    - The delays in your service are driving me crazy; this is inexcusable!
+    - I'm seriously upset about the poor quality of your products.
+    - Dealing with your company has become a source of constant irritation.
+    - Your lack of communication is absolutely infuriating.
+    - I'm angry about the complete disregard for customer satisfaction.
+    - I'm absolutely livid about the way my concerns have been ignored.
+    - This is beyond frustrating; your service has been a letdown.
+    - Your customer service is a joke, and I'm not amused.
+    - I'm disgusted by the way your company handles complaints.
+    - The incompetence of your team is driving me up the wall.
+    - I'm extremely agitated by the constant product malfunctions.
+    - Your lack of accountability for mistakes is infuriating.
+    - This level of negligence is absolutely infuriating.
+    - I'm losing my patience with your company's lack of responsiveness.
+    - I'm deeply disappointed in the way you handle customer issues.
+    - The sheer incompetence is making me rethink my loyalty to your brand.
+    - I'm beyond upset about the poor service I've received.
+    - Your disregard for customer feedback is maddening.
+    - I'm absolutely disgusted with the way you treat your customers.
+    - Your indifference to customer concerns is absolutely infuriating.
+    - I'm seething with anger over the constant billing errors.
+    - I'm absolutely fed up with the lack of resolution to my problems.
+    - Your company's policies are driving me insane; it's intolerable.
+    - I'm outraged at the lack of respect for customers' time and money.
+    - I can't express how angry I am with the constant letdowns from your company.
+    - Your product defects are making me regret ever choosing your brand.
+    - I'm beyond frustrated with the never-ending technical issues.
+    - Your service has been a complete disaster, and I'm not happy about it.
+    - The level of incompetence displayed is absolutely infuriating.
+    - I'm absolutely appalled at the lack of professionalism from your team.
+    - Your disregard for customer satisfaction is driving me up the wall.
+    - I'm infuriated by the lack of urgency in resolving my concerns.
+    - I'm deeply dissatisfied with the overall experience; it's a disgrace.
+    - The constant inconveniences have pushed me to the brink of anger.
+    - Your company's negligence is making me reconsider my choices.
+    - I'm extremely displeased with the subpar quality of your service.
+    - I'm furious at the blatant disregard for customer feedback.
+    - This constant runaround is making me lose faith in your company.
+    - I'm beyond irritated with the lack of accountability for mistakes.
+    - Your unresponsiveness is driving me crazy; it's absolutely infuriating.
+    - I'm absolutely livid about the lack of empathy in your customer service.
+    - The lack of resolution to my issues is making me extremely angry.
+    - I'm seething with frustration over the consistent failures of your service.
+    - I'm thoroughly disgusted with the overall lack of professionalism.
+
+- intent: positive
+  examples: |
+    - I'm thrilled with the outstanding customer service I received!
+    - Your product exceeded my expectations, and I couldn't be happier.
+    - I'm overjoyed by the seamless experience your website provided.
+    - Kudos to your team for delivering such a fantastic service!
+    - I'm delighted with the prompt and efficient resolution to my issue.
+    - Your company consistently goes above and beyond; I'm elated!
+    - I'm so happy with the quality and performance of your product.
+    - Thanks a million for the amazing support; I'm truly grateful.
+    - Your team's professionalism and kindness have made my day.
+    - I'm beaming with joy over the positive impact your service had on me.
+    - I can't express how satisfied I am with your excellent product.
+    - I'm ecstatic about the positive changes your updates have brought.
+    - The level of care and attention to detail is making me very happy.
+    - Your team's dedication to customer satisfaction is truly commendable.
+    - I'm absolutely delighted with the superb performance of your app.
+    - I'm filled with gratitude for the outstanding service you provided.
+    - I'm on cloud nine with the wonderful experience I had with your company.
+    - Your commitment to excellence has turned me into a loyal customer.
+    - I'm so pleased with the user-friendly design of your website.
+    - Your product has brought so much joy and convenience into my life.
+    - I'm over the moon about the positive impact your service has had on me.
+    - I'm thrilled to be a part of such an innovative and customer-centric community.
+    - I can't stop smiling because of the incredible service I received.
+    - I'm genuinely happy with the personalized attention from your team.
+    - Your company's commitment to customer satisfaction is truly uplifting.
+    - I'm so grateful for the positive and enriching experience with your product.
+    - I'm absolutely overjoyed with the exceptional quality of your service.
+    - Hats off to your team for delivering such a fantastic product!
+    - I'm positively impressed by the efficiency and effectiveness of your support.
+    - I'm on cloud nine with the delightful surprises your service offers.
+    - I'm thrilled to have discovered such a reliable and trustworthy company.
+    - I'm elated by the delightful simplicity and functionality of your app.
+    - Your product has brought so much joy and ease into my daily routine.
+    - I'm overjoyed by the positive impact your company has on the community.
+    - I'm so happy I chose your service; it has exceeded my expectations.
+    - I'm filled with happiness over the exceptional quality of your product.
+    - Your team's dedication to customer happiness is truly praiseworthy.
+    - I'm grateful for the positive changes your service has brought into my life.
+    - I'm ecstatic about the personalized and attentive service I received.
+    - I'm delighted to be a part of such a forward-thinking and customer-centric community.
+    - I can't thank your team enough for the consistently positive experiences.
+    - I'm over the moon with the excellent value your product provides.
+    - I'm genuinely pleased with the positive impact your company has on its customers.
+    - Your team's responsiveness and efficiency have made me a happy customer.
+    - I'm so grateful for the positive and uplifting interactions with your team.
+    - I'm thrilled with the positive changes your updates have brought to the platform.
+    - I'm beaming with joy over the seamless and enjoyable experience with your product.
+    - Your commitment to customer satisfaction is making me a loyal and happy customer.
+    - I'm genuinely happy with the positive influence your service has on my daily life.
+    - I'm delighted by the extraordinary level of customer care your team provides.
